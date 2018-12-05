@@ -1,0 +1,8 @@
+This is the popular game Space Invaders made using Python3, with the help of Pygame library.
+
+Controls:
+Move left : "A"
+Move rught : "D"
+Normal Bullet : "S"
+Freezing Bullet : "Space"
+Quit : "Q"
